@@ -83,17 +83,16 @@
                 android:id="@+id/radioone"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:onClick="checkButton"
                 android:text="Masculino"
                 android:textColor="@color/white"
                 android:layout_marginHorizontal="5dp"
+
             />
 
             <RadioButton
                 android:id="@+id/radiotwo"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:onClick="checkButton"
                 android:text="Feminino"
                 android:textColor="@color/white"
                 android:layout_marginHorizontal="10dp"
@@ -103,7 +102,6 @@
                 android:id="@+id/radiothree"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:onClick="checkButton"
                 android:text="Outro"
                 android:textColor="@color/white"
                 android:layout_marginHorizontal="10dp"
