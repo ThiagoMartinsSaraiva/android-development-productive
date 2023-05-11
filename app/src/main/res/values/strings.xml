@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ThiagoMartinsSaraivaUserRegisterApp</string>
+    <string-array name="escolaridade">
+        <item>Ensino Fundamental</item>
+        <item>Ensino Médio</item>
+        <item>Ensino Técnico</item>
+        <item>Ensino Superior</item>
+    </string-array>
+</resources>
